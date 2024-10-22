@@ -14,6 +14,7 @@ A library for querying **shodan** with no API key.
 pip install setuptools wheel
 git clone https://github.com/LavedenC1/frshodan
 cd frshodan
+# First edit setup.py
 python setup.py sdist bdist_wheel
 sudo pip3 install .
 ```
