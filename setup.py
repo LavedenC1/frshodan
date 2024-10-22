@@ -9,11 +9,11 @@ setup(
         'beautifulsoup4',
     ],
     author='Thomas Haddad',
-    author_email='haddad.thomas19@gmail.com',
+    author_email='nicetry@really.com',
     description='A library for querying Shodan IP addresses with no API key.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/LavedenC1/frshodan',
+    url='repo.git',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
